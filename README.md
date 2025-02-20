@@ -1,7 +1,5 @@
 # Proyecto PWA - Web del Hospital
 
-Este proyecto es una aplicación web progresiva (PWA) desarrollada en React, con el objetivo de implementar funcionalidades offline y mejorar la experiencia de usuario en la web del hospital.
-
 ## Características
 - Implementación de un **Service Worker** para funcionalidad offline.
 - Creación de un **archivo de manifiesto** para la PWA.
